@@ -1,0 +1,3 @@
+/Users/jev/codes/JSONParser/build/CMakeFiles/Json.dir
+/Users/jev/codes/JSONParser/build/CMakeFiles/edit_cache.dir
+/Users/jev/codes/JSONParser/build/CMakeFiles/rebuild_cache.dir

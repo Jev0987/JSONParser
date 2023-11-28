@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/jev/codes/JSONParser/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/Json.dir/main.cpp.o -c /Users/jev/codes/JSONParser/main.cpp",
+  "file": "/Users/jev/codes/JSONParser/main.cpp",
+  "output": "CMakeFiles/Json.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/jev/codes/JSONParser/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/Json.dir/JObject.cpp.o -c /Users/jev/codes/JSONParser/JObject.cpp",
+  "file": "/Users/jev/codes/JSONParser/JObject.cpp",
+  "output": "CMakeFiles/Json.dir/JObject.cpp.o"
+},
+{
+  "directory": "/Users/jev/codes/JSONParser/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/Json.dir/Parser.cpp.o -c /Users/jev/codes/JSONParser/Parser.cpp",
+  "file": "/Users/jev/codes/JSONParser/Parser.cpp",
+  "output": "CMakeFiles/Json.dir/Parser.cpp.o"
+}
+]
